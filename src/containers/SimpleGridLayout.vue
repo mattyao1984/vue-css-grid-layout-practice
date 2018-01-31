@@ -17,7 +17,7 @@ import Navigation from '@/components/Navigation.vue'
 const date = new Date()
 
 export default {
-  name: 'CSS Grid Layout',
+  name: 'SimpleGridLayout',
   components: {
     Navigation
   },

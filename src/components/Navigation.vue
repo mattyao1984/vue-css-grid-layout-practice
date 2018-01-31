@@ -7,6 +7,9 @@
       <li>
         <a href="/simple-grid-layout">Simple Grid Layout</a>
       </li>
+      <li>
+        <a href="/grid-row-col">Grid Row Col</a>
+      </li>
     </ul>
   </nav>
 </template>
