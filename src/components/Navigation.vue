@@ -10,6 +10,9 @@
       <li>
         <a href="/grid-row-col">Grid Row Col</a>
       </li>
+      <li>
+        <a href="/named-grid-lines">Named Grid Lines</a>
+      </li>
     </ul>
   </nav>
 </template>
